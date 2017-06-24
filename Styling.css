@@ -1089,10 +1089,10 @@ url(http://www.gannett-cdn.com/-mm-/c0371bcff746c5750375c7f5d128b745bc95afe1/c=0
 Seahawks-Footb-Kirk.jpg );}
 
 span.pit-away {
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/steelers.png),linear-gradient(-90deg, #ddab26, rgba(0, 0, 0, 0)),
+    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-left-weather-mascot-311x292/day/sunny/steelers.png),linear-gradient(-90deg, ##614704, rgba(0, 0, 0, 0)),
 url(http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/30539682-30539682.jpg );}
 span.pit{
-    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/steelers.png),linear-gradient(-90deg, #ddab26, rgba(0, 0, 0, 0)),
+    background-image: url(http://i.nflcdn.com/static/site/7.4/img/logos/helmet-right-weather-mascot-311x292/day/sunny/steelers.png),linear-gradient(-90deg, ##614704, rgba(0, 0, 0, 0)),
 url(http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/30539682-30539682.jpg );}
 
 span.hou-away {
