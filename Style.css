@@ -244,11 +244,11 @@ width: 1178px;
     color: #414141;
     font-size: 14px;
     font-weight: 700;
-    text-align: left;
+    text-align: right;
     border: 1px solid #ccc;
 }
 .scheduleweek .teamsos .label {
-   margin-left: -4px;
+   margin-left: 0px;
     font-size: 11px;
     top: -11px;
     position: relative;
