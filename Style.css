@@ -472,7 +472,7 @@ img.teamLogo {
 /***tables***/
 
 .data-table1 th, table.data-table1 td {
-    font-family: inherit;
+    font-family: Stencil;
     font-size: 11px;
 }
 td.bubble {
@@ -1121,7 +1121,7 @@ span.min{
     height: 73px;
     background-color: rgba(0, 0, 0, 0);
     border-radius: 0 0 .2em .2em;
-    margin: 0 auto; font-family:inherit;
+    margin: 0 auto; font-family:Stencil;
     text-align: center;
     text-shadow: 1px 1px 7px black;
 }
@@ -1475,7 +1475,7 @@ div#header {        height: 202px;
     text-align: left;
 }
 body {
-   font-family: DLSansCondMedium;
+   font-family: Stencil;
     background-attachment: fixed;     font-size: 17px;
     padding: 5px;
     background-position: center top;
