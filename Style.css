@@ -420,8 +420,8 @@ span.teamname {
     background-size: 52px;
 }
 .scheduleweek .hometeamlogo {      height: 70px;
-    width: -140px;
-    float: left;
+    width: 150px;
+    float: right;
     overflow: hidden;
     background-color: transparent;
     background-repeat: no-repeat;
