@@ -239,12 +239,12 @@ width: 1178px;
     -webkit-transform-origin: 20% 265%;
     transform: rotate(-90deg);
     transform-origin: 20% 265%;
-    width: 200px;
+    width: 70px;
     background: #f6f6f6 none repeat scroll 0 0;
     color: #414141;
     font-size: 14px;
     font-weight: 700;
-    text-align: right;
+    text-align: center;
     border: 1px solid #ccc;
 }
 .scheduleweek .teamsos .label {
