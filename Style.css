@@ -1153,7 +1153,7 @@ pic img {    object-fit: contain;
     height: 190px;
     overflow: hidden;
     border-right: solid 1px #e2322a;
-    animation: fadein-slideup ease 3s;
+    animation: fadein-slideup ease 1s;
 }
 b1, b2, b3 {
 position: relative;     left: 226px;    padding-left: 8px;
@@ -1166,7 +1166,7 @@ b1 {   top: -175px;
     font-size: 44px;
     text-transform: uppercase;
     line-height: 1em;
-    animation: fadein-slideup ease 3s;
+    animation: fadein-slideup ease 1s;
 }
 
 b2 {      top: -332px;
@@ -1174,7 +1174,7 @@ b2 {      top: -332px;
     height: 75px;
     font-size: 30px;
     text-transform: uppercase;
-    animation: fadein-slidedown ease 4s;
+    animation: fadein-slidedown ease 1s;
 }
 
 b3 {        top: -369px;
@@ -1183,7 +1183,7 @@ b3 {        top: -369px;
     font-size: 14px;
     text-transform: uppercase;
     line-height: 1.2em;
-    animation: fadein-slidedown ease 5s;
+    animation: fadein-slidedown ease 1s;
 }
 
 @keyframes fadein-slideup {
