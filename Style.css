@@ -1389,10 +1389,10 @@ a {
     top: 39px;
     visibility: hidden;
     width: 0;
-    -moz-transition: all 300ms ease-out;
-    -webkit-transition: all 300ms ease-out; 
-    -ms-transition: all 300ms ease-out; 
-    transition: all 300ms ease-out;
+    -moz-transition: all 100ms ease-out;
+    -webkit-transition: all 100ms ease-out; 
+    -ms-transition: all 100ms ease-out; 
+    transition: all 100ms ease-out;
 }
 
 #nav ul li:hover ul {
