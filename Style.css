@@ -385,7 +385,7 @@ span.teamname {
     font-size: 13px;
 }
 .scheduleweek .awayteam .name {
-    margin-left: 16px;
+    margin-left: -20px;
     margin-top: 13px;
     font-size: 26px;
     text-align: right;
