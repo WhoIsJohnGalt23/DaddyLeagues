@@ -389,13 +389,13 @@ span.teamname {
     margin-top: 13px;
     font-size: 26px;
     text-align: right;
-    font-weight: 700;
+    font-weight: 200;
     text-transform: uppercase;
 }
 .scheduleweek .hometeam .name {
     margin: 12px 0 0 -51px;
     font-size: 26px;
-    font-weight: 700;
+    font-weight: 200;
     text-transform: uppercase;
 }
 .scheduleweek .away-team {         text-align: left;
