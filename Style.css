@@ -367,7 +367,7 @@ span.teamname {
 .scheduleweek .score {    font-size: 36px;
     font-weight: bold;
     color: #FFFFFF;
-    text-shadow: 0 0px 52px #51A5FA;
+    text-shadow: 0 0px 52px #ffffff;
 }
 .scheduleweek .hometeam .record {
        margin-left: -14px;
