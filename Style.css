@@ -175,7 +175,7 @@ width: 1178px;
     position: relative;
     display: block;
     padding: 10px 15px;
-    margin-bottom: 0px;
+    margin-bottom: -1px;
     background-color: rgb(34, 46, 60);
     border: 1px solid #485461;
     text-align: left;
