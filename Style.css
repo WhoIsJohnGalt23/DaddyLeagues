@@ -798,8 +798,8 @@ span.home.use {
     padding-top: 30px;
     padding-left: 25px;
     color: #f4feff;
-    text-shadow: 0px 1px 6px #4ed2e6;
-    animation: slide-in-right 2600ms ease-out;
+    text-shadow: 0px 1px 6px #ef0404;
+    animation: slide-in-right 1300ms ease-out;
 }
 span.away.use {
     top: 37px;
@@ -820,8 +820,8 @@ span.away.use {
     padding-top: 30px;
     padding-right: 35px;
     color: #f4feff;
-    text-shadow: 0px 1px 6px #4ed2e6;
-    animation: slide-in-right 2600ms ease-out;
+    text-shadow: 0px 1px 6px #ef0404;
+    animation: slide-in-right 1300ms ease-out;
 }
 span.use {    top: -36px;
     z-index: 69;
@@ -842,8 +842,8 @@ span.use {    top: -36px;
     padding-top: 30px;
     padding-right: 41px;
     color: #f4feff;
-    text-shadow: 0px 1px 6px #4ed2e6;
-    animation: slide-in-right 2600ms ease-out;
+    text-shadow: 0px 1px 6px #ef0404;
+    animation: slide-in-right 1300ms ease-out;
 }
 .home.team {
     border-bottom: solid 1px white;
