@@ -419,7 +419,7 @@ span.teamname {
     background-position: 83% 11px;
     background-size: 52px;
 }
-.scheduleweek .hometeamlogo {      height: 70px;
+.scheduleweek .hometeamlogo {      height: 100px;
     width: 150px;
     float: right;
     overflow: hidden;
