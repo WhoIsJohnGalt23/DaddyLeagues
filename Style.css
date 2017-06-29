@@ -240,15 +240,15 @@ width: 1178px;
     transform: rotate(-90deg);
     transform-origin: 20% 265%;
     width: 80px;
-    background: #420707 none repeat scroll 0 0;
-    color: #ffffff;
+    background: #f6f6f6 none repeat scroll 0 0;
+    color: #414141;
     font-size: 14px;
-    font-weight: 200;
+    font-weight: 700;
     text-align: center;
     border: 1px solid #ccc;
 }
 .scheduleweek .teamsos .label {
-   margin-left: 0px;
+   margin-left: -4px;
     font-size: 11px;
     top: -11px;
     position: relative;
@@ -274,11 +274,11 @@ width: 1178px;
     text-shadow: 4px -10px 0px #FFFFFF;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
-    width: 220px;
+    width: 276px;
     text-transform: uppercase;
     height: 70px;
     top: 25px;
-    left: 200px;
+    left: 136px;
     position: absolute;
 }
 .sub-menu {
@@ -293,7 +293,7 @@ position: relative;
 left: 57px;
 }
 span.sch {
-font-family: Stencil;
+font-family: NFLEndzoneTechBold, sans-serif;
 font-weight: bold;
 position: absolute; top: 5px;
 text-transform: uppercase;
@@ -317,12 +317,12 @@ span.teamname {
     position: relative;
 }
 .scheduleweek {
-    background: url(http://i.imgur.com/O9JVt1j.png);
+    background: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/stadium.png);
     font-size: 12px;
-    border-top: #000000 3px solid;
-    border-left: #000000 3px solid;
-    border-right: #000000 3px solid;
-    border-bottom: #770202 3px solid;
+    border-top: #E4E3E3 3px solid;
+    border-left: #6E6E6E 3px solid;
+    border-right: #898888 3px solid;
+    border-bottom: #8B8A8A 3px solid;
     padding-left: 0px;
     padding-right: 5px;
     color: white;
@@ -339,7 +339,7 @@ span.teamname {
     text-align: center;
     left: 32px;
     top: 33px;
-    line-height: 0px;
+    line-height: 26px;
     width: 150px;
     font-size: 12px;
 }
@@ -364,14 +364,14 @@ span.teamname {
     font-size: 14px;
     top: 26px;
 }
-.scheduleweek .score {    font-size: 28px;
+.scheduleweek .score {    font-size: 36px;
     font-weight: bold;
     color: #FFFFFF;
-    text-shadow: 0 0px 52px #fd0000;
+    text-shadow: 0 0px 52px #51A5FA;
 }
 .scheduleweek .hometeam .record {
-       margin-left: -14px;
-    color: #8a8787;
+       margin-left: -154px;
+    color: #e9ae03;
     font-size: 13px;
 }
 .scheduleweek .awayteam {
@@ -380,22 +380,22 @@ span.teamname {
     margin: -10px 0 0 -49px;
 }
 .scheduleweek .awayteam .record {
-    margin-left: 120px;
-    color: #8a8787;
+    margin-left: 180px;
+    color: #ffb300;
     font-size: 13px;
 }
 .scheduleweek .awayteam .name {
-    margin-left: -20px;
+    margin-left: 16px;
     margin-top: 13px;
     font-size: 26px;
     text-align: right;
-    font-weight: 200;
+    font-weight: 700;
     text-transform: uppercase;
 }
 .scheduleweek .hometeam .name {
-    margin: 12px 0 0 -50px;
+    margin: 12px 0 0 -91px;
     font-size: 26px;
-    font-weight: 200;
+    font-weight: 700;
     text-transform: uppercase;
 }
 .scheduleweek .away-team {         text-align: left;
@@ -421,7 +421,7 @@ span.teamname {
 }
 .scheduleweek .hometeamlogo {      height: 70px;
     width: 150px;
-    float: right;
+    float: left;
     overflow: hidden;
     background-color: transparent;
     background-repeat: no-repeat;
