@@ -320,10 +320,10 @@ width: 1178px;
 	.scheduleweek {
 	    background: url(http://i.imgur.com/O9JVt1j.png);
 	    font-size: 12px;
-	    border-top: #E4E3E3 3px solid;
-	    border-left: #6E6E6E 3px solid;
-	    border-right: #898888 3px solid;
-	    border-bottom: #8B8A8A 3px solid;
+	    border-top: #000000 3px solid;
+	    border-left: #000000 3px solid;
+	    border-right: #000000 3px solid;
+	    border-bottom: #b30303 3px solid;
 	    padding-left: 0px;
 	    padding-right: 5px;
 	    color: white;
