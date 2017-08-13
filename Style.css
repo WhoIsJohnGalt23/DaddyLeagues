@@ -468,7 +468,7 @@ img.teamLogo {
 /***tables***/
 
 .data-table1 th, table.data-table1 td {
-    font-family: Stencil;
+    font-family: arial;
     font-size: 11px;
 }
 td.bubble {
