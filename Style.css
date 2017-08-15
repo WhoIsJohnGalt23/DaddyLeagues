@@ -684,7 +684,7 @@ div#potw {          position: relative;
 }
 .gowh {
     background-size: 75%, 100%, 73%;
-    background-position: 148px 0px, -280px 0px, 0px 2px;
+    background-position: 148px 0px, -280px 0px, -90px -30px;
     background-repeat: no-repeat;
     width: 589px;
     font-size: 100px;
