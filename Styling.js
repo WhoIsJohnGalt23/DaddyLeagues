@@ -6,7 +6,7 @@ $('#slideshow > div:first')
 .fadeIn(2500)
 .end()
 .appendTo('#slideshow');
-}, 11000);
+}, 13000);
 
 $('.data-table1 td:contains("Cardinals")').prepend('<img src="http://www.mghelmets.com/logos/az-cardinals.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("arz");
 
