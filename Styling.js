@@ -18,7 +18,7 @@ $('.data-table1 td:contains("Bills")').prepend('<img src="http://www.mghelmets.c
 
 $('.data-table1 td:contains("Panthers")').prepend('<img src="http://www.mghelmets.com/logos/ca-panthers.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("car");
 
-$('.data-table1 td:contains("Bears")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/25/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("chi");
+$('.data-table1 td:contains("Bears")').prepend('<img src="http://www.mghelmets.com/logos/ca-bears.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("chi");
 
 $('.data-table1 td:contains("Bengals")').prepend('<img src="http://www.mghelmets.com/logos/cin-bengals.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("cin");
 
