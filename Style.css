@@ -1671,8 +1671,8 @@ a.yui3-scorestrip-tile-content {
     top: -510px;
     BACKGROUND-IMAGE: url(http://www.easports.com/madden-nfl/connected-franchise/bundles/maddenccm/images/carbon-fine.png),url(https://i.imgur.com/YEO1kel.png), url(http://media.gettyimages.com/videos/dramatic-soccer-stadium-full-of-spectators-video-id494935136?s=640x640);
     background-repeat: repeat,no-repeat, no-repeat;
-    background-size: 7PX, 122%,200%;
-    background-position: 0px 0px, 0PX 1px, -315px -23px;
+    background-size: 7PX, 70%,200%;
+    background-position: 0px 0px, 60PX -23px, -315px -23px;
 }
 .portfolio-box5 .portfolio-box5-caption {
   display: block;
