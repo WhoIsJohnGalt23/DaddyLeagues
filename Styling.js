@@ -8,15 +8,15 @@ $('#slideshow > div:first')
 .appendTo('#slideshow');
 }, 13000);
 
-$('.data-table1 td:contains("Cardinals")').prepend('<img src="http://www.mghelmets.com/logos/az-cardinals.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("arz");
+$('.data-table1 td:contains("Cardinals")').prepend('<img src="https://thescore-api-artifacts.s3.amazonaws.com/football/team/22/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("arz");
 
-$('.data-table1 td:contains("Falcons")').prepend('<img src="http://www.mghelmets.com/logos/atl-falcons.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("atl");
+$('.data-table1 td:contains("Falcons")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/29/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("atl");
 
 $('.data-table1 td:contains("Ravens")').prepend('<img src="http://www.mghelmets.com/logos/blt-ravens.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("bal");
 
 $('.data-table1 td:contains("Bills")').prepend('<img src="http://www.mghelmets.com/logos/buf-bills.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("buf");
 
-$('.data-table1 td:contains("Panthers")').prepend('<img src="http://www.mghelmets.com/logos/ca-panthers.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("car");
+$('.data-table1 td:contains("Panthers")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/32/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("car");
 
 $('.data-table1 td:contains("Bears")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/25/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("chi");
 
@@ -24,13 +24,13 @@ $('.data-table1 td:contains("Bengals")').prepend('<img src="http://www.mghelmets
 
 $('.data-table1 td:contains("Browns")').prepend('<img src="http://www.mghelmets.com/logos/clv-browns.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("cle");
 
-$('.data-table1 td:contains("Cowboys")').prepend('<img src="http://www.mghelmets.com/logos/dal-cowboys.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("dal");
+$('.data-table1 td:contains("Cowboys")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/17/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("dal");
 
 $('.data-table1 td:contains("Broncos")').prepend('<img src="http://www.mghelmets.com/logos/den-broncos.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("den");
 
-$('.data-table1 td:contains("Lions")').prepend('<img src="http://www.mghelmets.com/logos/det-lions.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("det");
+$('.data-table1 td:contains("Lions")').prepend('<img src="http://southbronxsaints.org/wp-content/uploads/2016/04/lions-128x128.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("det");
 
-$('.data-table1 td:contains("Packers")').prepend('<img src="http://www.mghelmets.com/logos/gb-packers.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("gb");
+$('.data-table1 td:contains("Packers")').prepend('<img src="http://southbronxsaints.org/wp-content/uploads/2015/10/l89705-green-bay-packers-logo-23598-128x128.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("gb");
 
 $('.data-table1 td:contains("Texans")').prepend('<img src="http://www.mghelmets.com/logos/hou-texans.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("hou");
 
@@ -42,36 +42,36 @@ $('.data-table1 td:contains("Chiefs")').prepend('<img src="http://www.mghelmets.
 
 $('.data-table1 td:contains("Dolphins")').prepend('<img src="http://www.mghelmets.com/logos/miami-dolphins.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("mia");
 
-$('.data-table1 td:contains("Vikings")').prepend('<img src="http://www.mghelmets.com/logos/min-vikings.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("min");
+$('.data-table1 td:contains("Vikings")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/28/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("min");
 
 $('.data-table1 td:contains("Patriots")').prepend('<img src="http://www.mghelmets.com/logos/ne-patriots.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("ne");
 
-$('.data-table1 td:contains("Saints")').prepend('<img src="http://www.mghelmets.com/logos/no-saints.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("no");
+$('.data-table1 td:contains("Saints")').prepend('<img src="https://lh3.ggpht.com/n5iLK6o2PTOUSo-1x3rhaHstcUzLcyf7HZW6ZK1EbbBfBenGJpaiLI2FT7dCb5vtiG0r=s128" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("no");
 
-$('.data-table1 td:contains("Giants")').prepend('<img src="http://www.mghelmets.com/logos/ny-giants.png" width="20" height="16" border="0" alt="Team logo" class="teamLogo">').addClass("nyg");
+$('.data-table1 td:contains("Giants")').prepend('<img src="http://southbronxsaints.org/wp-content/uploads/2015/10/giants-128x128.png" width="20" height="16" border="0" alt="Team logo" class="teamLogo">').addClass("nyg");
 
 $('.data-table1 td:contains("Jets")').prepend('<img src="http://www.mghelmets.com/logos/ny-jets.png" width="25" height="21"border="0" alt="Team logo" class="teamLogo">').addClass("nyj");
 
 $('.data-table1 td:contains("Raiders")').prepend('<img src="http://www.mghelmets.com/logos/oak-raiders.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("oak");
 
-$('.data-table1 td:contains("Eagles")').prepend('<img src="http://www.mghelmets.com/logos/phi-eagles.png" width="19" height="15" border="0" alt="Team logo" class="teamLogo">').addClass("phi");
+$('.data-table1 td:contains("Eagles")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/19/logo.png" width="19" height="15" border="0" alt="Team logo" class="teamLogo">').addClass("phi");
 
 
 $('.data-table1 td:contains("Steelers")').prepend('<img src="http://www.mghelmets.com/logos/pit-steelers.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("pit");
 
 $('.data-table1 td:contains("Chargers")').prepend('<img src="http://www.mghelmets.com/logos/sd-chargers.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("LAC");
 
-$('.data-table1 td:contains("49ers")').prepend('<img src="http://www.mghelmets.com/logos/sf-49ers.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("sf");
+$('.data-table1 td:contains("49ers")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/23/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("sf");
 
-$('.data-table1 td:contains("Seahawks")').prepend('<img src="http://www.mghelmets.com/logos/sea-seahawks.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("sea");
+$('.data-table1 td:contains("Seahawks")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/24/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("sea");
 
-$('.data-table1 td:contains("Rams")').prepend('<img src="http://www.mghelmets.com/logos/stl-rams.png" width="25" height="21"border="0" alt="Team logo" class="teamLogo">').addClass("LAR");
+$('.data-table1 td:contains("Rams")').prepend('<img src="https://lh3.googleusercontent.com/iA79kqUk1XPTy8TcvZsjs4OaDxtF6N6KHPvTGmCyMPyxCx17gRuFo1_tzX3kR2H5KNDW=s128" width="25" height="21"border="0" alt="Team logo" class="teamLogo">').addClass("LAR");
 
-$('.data-table1 td:contains("Buccaneers")').prepend('<img src="http://www.mghelmets.com/logos/tb-bucs.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("tb");
+$('.data-table1 td:contains("Buccaneers")').prepend('<img src="http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=tampa-bay-buccaneers&width=128&height=128" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("tb");
 
 $('.data-table1 td:contains("Titans")').prepend('<img src="http://www.mghelmets.com/logos/ten-titans.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("ten");
 
-$('.data-table1 td:contains("Redskins")').prepend('<img src="http://www.mghelmets.com/logos/wash-redskins.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("was");
+$('.data-table1 td:contains("Redskins")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/20/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("was");
 
 
 $('a>span:contains("ARI")').replaceWith('<img src="http://i.nflcdn.com/static/site/6.9/img/logos/teams-gloss-81x54/ari.png" width="20" height="15"" class="scoreboard"> ARI</span>');
