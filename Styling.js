@@ -40,7 +40,7 @@ $('.data-table1 td:contains("Jaguars")').prepend('<img src="https://s3.amazonaws
 
 $('.data-table1 td:contains("Chiefs")').prepend('<img src="https://s3.amazonaws.com/freebiesupply/large/2x/kansas-city-chiefs-logo-transparent.png" width="25" height="19" border="0" alt="Team logo" class="teamLogo">').addClass("kc");
 
-$('.data-table1 td:contains("Dolphins")').prepend('<img src="http://www.stickpng.com/assets/images/580b585b2edbce24c47b2b35.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("mia");
+$('.data-table1 td:contains("Dolphins")').prepend('<img src="https://www.superstarssports.com/images/dolphins3dlogo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("mia");
 
 $('.data-table1 td:contains("Vikings")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/28/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("min");
 
@@ -69,7 +69,7 @@ $('.data-table1 td:contains("Rams")').prepend('<img src="https://lh3.googleuserc
 
 $('.data-table1 td:contains("Buccaneers")').prepend('<img src="http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=tampa-bay-buccaneers&width=128&height=128" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("tb");
 
-$('.data-table1 td:contains("Titans")').prepend('<img src="http://www.stickpng.com/assets/images/580b585b2edbce24c47b2b61.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("ten");
+$('.data-table1 td:contains("Titans")').prepend('<img src="http://www.fbschedules.com/images/logos/nfl/tennessee-titans.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("ten");
 
 $('.data-table1 td:contains("Redskins")').prepend('<img src="https://d1si3tbndbzwz9.cloudfront.net/football/team/20/logo.png" width="25" height="21" border="0" alt="Team logo" class="teamLogo">').addClass("was");
 
